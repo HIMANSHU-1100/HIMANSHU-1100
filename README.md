@@ -34,21 +34,6 @@
 
 ---
 
-## 📂 My Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| Project 1 | Short description | HTML, CSS |
-| Project 2 | Short description | Java |
-| Project 3 | Short description | JavaScript |
-
----
-
-## 📫 Connect With Me
-
-- GitHub: 
-- LinkedIn:
-- Email: 
----
 
 ⭐ From [YOUR_USERNAME](https://github.com/HIMANSHU-1100)
